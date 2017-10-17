@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsExcelImport
+  SaveWorkbookToFolder="false"
+  WorksheetImportType="topic"
+  PersistFirstRowAsHeader="false"
+  LimitRows="false"
+  LimitRowsCount="30"
+  SaveChartsAs="true"
+  SaveChartsAsType="Png"
+  ConvertEquations="true"
+  ExclusionFilters=""
+  CreateMasterTopic="false"
+  IncludeWorksheetTitlesAsHeadings="false"
+  ImportHiddenRowsColumns="false"
+  KeepSourceLinks="true"
+  AutoSync="false"
+  Stylesheet=""
+  PreserveSourceStyles="true"
+  LastImport="2017-10-17T07:47:41.0257171-07:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/ExcelFiles/Personal expenses calculator1.xlsx"
+      AbsoluteSource="file:///C:/Users/dspencer/Desktop/ExcelFiles/Personal expenses calculator1.xlsx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/TableStyles/tblExpenses_1.css"
+      TimeStamp="17-Oct-17 7:47:34 AM" />
+    <Url
+      Source="../../Content/Resources/TableStyles/tblCategory7_1.css"
+      TimeStamp="17-Oct-17 7:47:34 AM" />
+    <Url
+      Source="../../Content/Resources/TableStyles/PivotStyleMedium9_1.css"
+      TimeStamp="17-Oct-17 7:47:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Personal expenses calculator2/Dashboard_Category Setup Personal Expenses.png"
+      TimeStamp="17-Oct-17 7:47:35 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Personal expenses calculator1_1.css"
+      TimeStamp="17-Oct-17 7:47:37 AM" />
+    <Url
+      Source="../../Content/Personal expenses calculator2/Dashboard.htm"
+      TimeStamp="17-Oct-17 7:47:37 AM" />
+    <Url
+      Source="../../Content/Personal expenses calculator2/Expense Log.htm"
+      TimeStamp="17-Oct-17 7:47:37 AM" />
+    <Url
+      Source="../../Content/Personal expenses calculator2/Category Setup.htm"
+      TimeStamp="17-Oct-17 7:47:37 AM" />
+    <Url
+      Source="../../Content/Personal expenses calculator2/Personal Expenses Data.htm"
+      TimeStamp="17-Oct-17 7:47:38 AM" />
+    <Url
+      Source="../TOCs/Personal expenses calculator2.fltoc"
+      TimeStamp="17-Oct-17 7:47:38 AM" />
+  </GeneratedFiles>
+</MsExcelImport>

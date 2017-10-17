@@ -1,0 +1,223 @@
+/*<meta sourceDocument="C:\Users\dspencer\Desktop\ExcelFiles\Personal expenses calculator1.xlsx" />*/
+
+table
+{
+	padding: 0;
+	margin: 0;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+
+col
+{
+	width: 65px;
+	padding: 0;
+	margin: 0;
+}
+
+tr
+{
+	height: auto;
+	padding: 0;
+	margin: 0;
+}
+
+td
+{
+	font-family: Calibri;
+	font-size: 11px;
+	background: white;
+	color: black;
+	padding: 0px;
+	border: none;
+}
+
+.Default
+{
+	vertical-align: middle;
+	font-family: "Tahoma", "Swiss";
+	color: #1D3641;
+	background-color: #F9FAF5;
+}
+
+.s16
+{
+	font-family: "Tahoma", "Swiss";
+	font-size: 30px;
+	color: #759AA5;
+	font-weight: bold;
+	background-color: #F9FAF5;
+}
+
+.s17
+{
+	text-align: left;
+	vertical-align: bottom;
+}
+
+.s19
+{
+	
+}
+
+.s20
+{
+	background-color: #FEFEFC;
+}
+
+.s21
+{
+	background-color: #1D3641;
+}
+
+.s22
+{
+	vertical-align: middle;
+	font-family: "Tahoma", "Swiss";
+	font-size: 28px;
+	color: #759AA5;
+	background-color: #759AA5;
+}
+
+.s23
+{
+	background-color: #759AA5;
+}
+
+.s24
+{
+	vertical-align: middle;
+	font-family: "Tahoma", "Swiss";
+	font-size: 28px;
+	color: #759AA5;
+	font-weight: bold;
+	background-color: #FEFEFC;
+}
+
+.s25
+{
+	font-family: "Tahoma", "Swiss";
+	font-size: 30px;
+	color: #759AA5;
+	font-weight: bold;
+	background-color: #F9FAF5;
+	vertical-align: middle;
+	background-color: #FEFEFC;
+}
+
+.s26
+{
+	text-align: left;
+	vertical-align: middle;
+}
+
+.s27
+{
+	text-align: left;
+	vertical-align: middle;
+}
+
+.s28
+{
+	background-color: #1D3641;
+}
+
+.s29
+{
+	font-family: "Tahoma", "Swiss";
+	font-size: 30px;
+	color: #759AA5;
+	font-weight: bold;
+	background-color: #F9FAF5;
+	vertical-align: middle;
+}
+
+.s30
+{
+	background-color: #000000;
+}
+
+.s31
+{
+	font-family: "Tahoma", "Swiss";
+	color: #F56B12;
+	background-color: #759AA5;
+}
+
+.s32
+{
+	text-align: left;
+	vertical-align: middle;
+	font-family: "Tahoma", "Swiss";
+	color: #1D3641;
+	background-color: #F9FAF5;
+}
+
+.s33
+{
+	text-align: center;
+	vertical-align: middle;
+	font-family: "Tahoma", "Swiss";
+	color: #1D3641;
+	background-color: #F9FAF5;
+}
+
+.s34
+{
+	text-align: left;
+	vertical-align: middle;
+	font-family: "Tahoma", "Swiss";
+	color: #1D3641;
+	background-color: #F9FAF5;
+}
+
+.s35
+{
+	text-align: right;
+	vertical-align: middle;
+	font-family: "Tahoma", "Swiss";
+	color: #1D3641;
+	background-color: #F9FAF5;
+}
+
+.s36
+{
+	background-color: #759AA5;
+}
+
+.s37
+{
+	font-family: "Tahoma", "Swiss";
+	font-size: 30px;
+	color: #759AA5;
+	font-weight: bold;
+	background-color: #F9FAF5;
+	vertical-align: middle;
+	background-color: #759AA5;
+}
+
+.s38
+{
+	background-color: #1D3641;
+}
+
+.s39
+{
+	font-family: "Tahoma", "Swiss";
+	color: #FFFFFF;
+	background-color: #1D3641;
+}
+
+.s40
+{
+	text-align: left;
+	vertical-align: middle;
+	font-family: "Tahoma", "Swiss";
+	color: #FFFFFF;
+}
+
+.s42
+{
+	vertical-align: middle;
+}
+

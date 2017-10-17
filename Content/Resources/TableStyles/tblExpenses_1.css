@@ -1,0 +1,711 @@
+/* MadCap Table Style: */
+
+/*<meta sourceDocument="C:\Users\dspencer\Desktop\ExcelFiles\Personal expenses calculator1.xlsx" Version="9" />*/
+
+mcTableStyle
+{
+	name: tblExpenses;
+	background-color: #FFFFFF;
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-style: normal;
+	font-weight: normal;
+	max-id: 1;
+	border-bottom-style: solid;
+	border-bottom-width: 4px;
+	border-bottom-color: #759AA5;
+}
+
+mcTableColumnStyle
+{
+	name: Column1;
+	id: 1;
+}
+
+mcTableHeadStyle
+{
+	name: Header1;
+	id: 1;
+	background-color: #FFFFFF;
+	span: 1;
+	color: #FEFEFC;
+	font-family: Calibri;
+	font-size: 11;
+	font-style: normal;
+	font-weight: bold;
+}
+
+mcTableBodyStyle
+{
+	name: Body1;
+	id: 1;
+	background-color: #F9FAF5;
+	span: 1;
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-style: normal;
+	font-weight: normal;
+}
+
+mcTableBodyStyle
+{
+	name: Body2;
+	id: 2;
+	background-color: #F2F2F2;
+	span: 1;
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-style: normal;
+	font-weight: normal;
+}
+
+mcTableFootStyle
+{
+	name: Footer1;
+	id: 1;
+}
+
+
+/* Cell Styles: */
+ 
+.TableStyle-tblExpenses
+{
+	background-color: #FFFFFF;
+	border-bottom-style: solid;
+	border-bottom-color: #759AA5;
+	border-bottom-width: 4px;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-tblExpenses-Column-Column1
+{
+	
+}
+
+.TableStyle-tblExpenses-Head-Header1
+{
+	
+}
+
+.TableStyle-tblExpenses-HeadI-Column1-Header1
+{
+	color: #FEFEFC;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-tblExpenses-HeadI-Column1-Header1 p
+{
+	color: #FEFEFC;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-HeadE-Column1-Header1
+{
+	color: #FEFEFC;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-tblExpenses-HeadE-Column1-Header1 p
+{
+	color: #FEFEFC;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-HeadF-Column1-Header1
+{
+	color: #FEFEFC;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-tblExpenses-HeadF-Column1-Header1 p
+{
+	color: #FEFEFC;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-HeadH-Column1-Header1
+{
+	color: #FEFEFC;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-tblExpenses-HeadH-Column1-Header1 p
+{
+	color: #FEFEFC;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-HeadD-Column1-Header1
+{
+	color: #FEFEFC;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-tblExpenses-HeadD-Column1-Header1 p
+{
+	color: #FEFEFC;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-HeadC-Column1-Header1
+{
+	color: #FEFEFC;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-tblExpenses-HeadC-Column1-Header1 p
+{
+	color: #FEFEFC;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-HeadB-Column1-Header1
+{
+	color: #FEFEFC;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-tblExpenses-HeadB-Column1-Header1 p
+{
+	color: #FEFEFC;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-HeadA-Column1-Header1
+{
+	color: #FEFEFC;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-tblExpenses-HeadA-Column1-Header1 p
+{
+	color: #FEFEFC;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-HeadG-Column1-Header1
+{
+	color: #FEFEFC;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-tblExpenses-HeadG-Column1-Header1 p
+{
+	color: #FEFEFC;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-Foot-Footer1
+{
+	
+}
+
+.TableStyle-tblExpenses-FootI-Column1-Footer1
+{
+	
+}
+
+.TableStyle-tblExpenses-FootI-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-tblExpenses-FootE-Column1-Footer1
+{
+	
+}
+
+.TableStyle-tblExpenses-FootE-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-tblExpenses-FootF-Column1-Footer1
+{
+	
+}
+
+.TableStyle-tblExpenses-FootF-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-tblExpenses-FootH-Column1-Footer1
+{
+	
+}
+
+.TableStyle-tblExpenses-FootH-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-tblExpenses-FootD-Column1-Footer1
+{
+	
+}
+
+.TableStyle-tblExpenses-FootD-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-tblExpenses-FootC-Column1-Footer1
+{
+	
+}
+
+.TableStyle-tblExpenses-FootC-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-tblExpenses-FootB-Column1-Footer1
+{
+	
+}
+
+.TableStyle-tblExpenses-FootB-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-tblExpenses-FootA-Column1-Footer1
+{
+	
+}
+
+.TableStyle-tblExpenses-FootA-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-tblExpenses-FootG-Column1-Footer1
+{
+	
+}
+
+.TableStyle-tblExpenses-FootG-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-tblExpenses-Body-Body1
+{
+	
+}
+
+.TableStyle-tblExpenses-BodyI-Column1-Body1
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #F9FAF5;
+}
+
+.TableStyle-tblExpenses-BodyI-Column1-Body1 p
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-BodyE-Column1-Body1
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #F9FAF5;
+}
+
+.TableStyle-tblExpenses-BodyE-Column1-Body1 p
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-BodyF-Column1-Body1
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #F9FAF5;
+}
+
+.TableStyle-tblExpenses-BodyF-Column1-Body1 p
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-BodyH-Column1-Body1
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #F9FAF5;
+}
+
+.TableStyle-tblExpenses-BodyH-Column1-Body1 p
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-BodyD-Column1-Body1
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #F9FAF5;
+}
+
+.TableStyle-tblExpenses-BodyD-Column1-Body1 p
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-BodyC-Column1-Body1
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #F9FAF5;
+}
+
+.TableStyle-tblExpenses-BodyC-Column1-Body1 p
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-BodyB-Column1-Body1
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #F9FAF5;
+}
+
+.TableStyle-tblExpenses-BodyB-Column1-Body1 p
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-BodyA-Column1-Body1
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #F9FAF5;
+}
+
+.TableStyle-tblExpenses-BodyA-Column1-Body1 p
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-BodyG-Column1-Body1
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #F9FAF5;
+}
+
+.TableStyle-tblExpenses-BodyG-Column1-Body1 p
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-Body-Body2
+{
+	
+}
+
+.TableStyle-tblExpenses-BodyI-Column1-Body2
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #F2F2F2;
+}
+
+.TableStyle-tblExpenses-BodyI-Column1-Body2 p
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-BodyE-Column1-Body2
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #F2F2F2;
+}
+
+.TableStyle-tblExpenses-BodyE-Column1-Body2 p
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-BodyF-Column1-Body2
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #F2F2F2;
+}
+
+.TableStyle-tblExpenses-BodyF-Column1-Body2 p
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-BodyH-Column1-Body2
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #F2F2F2;
+}
+
+.TableStyle-tblExpenses-BodyH-Column1-Body2 p
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-BodyD-Column1-Body2
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #F2F2F2;
+}
+
+.TableStyle-tblExpenses-BodyD-Column1-Body2 p
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-BodyC-Column1-Body2
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #F2F2F2;
+}
+
+.TableStyle-tblExpenses-BodyC-Column1-Body2 p
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-BodyB-Column1-Body2
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #F2F2F2;
+}
+
+.TableStyle-tblExpenses-BodyB-Column1-Body2 p
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-BodyA-Column1-Body2
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #F2F2F2;
+}
+
+.TableStyle-tblExpenses-BodyA-Column1-Body2 p
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-tblExpenses-BodyG-Column1-Body2
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #F2F2F2;
+}
+
+.TableStyle-tblExpenses-BodyG-Column1-Body2 p
+{
+	color: #1D3641;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+
